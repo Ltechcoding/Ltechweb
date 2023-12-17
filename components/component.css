@@ -1,0 +1,18 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+@media(max-width: 767px) {
+  .app-component-text {
+    text-align: center;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
+  }
+}
+@media(max-width: 479px) {
+  .app-component-text {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

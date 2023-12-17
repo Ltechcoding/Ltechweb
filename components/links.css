@@ -1,0 +1,74 @@
+.links-links {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-left: 33px;
+  flex-direction: row;
+}
+.links-navlink {
+  color: var(--dl-color-important-text);
+  transition: 0.3s;
+  text-decoration: none;
+}
+.links-navlink:hover {
+  color: var(--dl-color-accent-100);
+}
+.links-navlink1 {
+  color: var(--dl-color-important-text);
+  transition: 0.3s;
+  text-decoration: none;
+}
+.links-navlink1:hover {
+  color: var(--dl-color-accent-100);
+}
+.links-navlink2 {
+  color: var(--dl-color-important-text);
+  transition: 0.3s;
+  text-decoration: none;
+}
+.links-navlink2:hover {
+  color: var(--dl-color-accent-100);
+}
+.links-navlink3 {
+  color: var(--dl-color-important-text);
+  transition: 0.3s;
+  text-decoration: none;
+}
+.links-navlink3:hover {
+  color: var(--dl-color-accent-100);
+}
+.links-root-class-name {
+  right: 0px;
+  bottom: 39px;
+  position: absolute;
+  margin-left: 0px;
+}
+.links-root-class-name1 {
+  right: 0px;
+  bottom: 39px;
+  position: absolute;
+  margin-left: 0px;
+}
+.links-root-class-name2 {
+  right: 0px;
+  bottom: 39px;
+  position: absolute;
+  margin-left: 0px;
+}
+.links-root-class-name3 {
+  right: 0px;
+  bottom: 39px;
+  position: absolute;
+  margin-left: 0px;
+}
+.links-root-class-name4 {
+  right: 0px;
+  bottom: 39px;
+  position: absolute;
+  margin-left: 0px;
+}
+@media(max-width: 991px) {
+  .links-links {
+    display: none;
+  }
+}
